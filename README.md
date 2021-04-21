@@ -20,4 +20,4 @@ Important Info (READ BEFORE ORDERING):
  - Renders do not represent the final profuct (seam is not visible etc.).
  - Please, PLEASE look over the design before you do anything with it, it's possible and very likely that there are some errors, I'm just a human.
 
-If you use this as a template for your own design, please give credit and link this repository in your IC post (same goes for renders).
+If you use this as a template for your own design, please give credit(same goes for renders).
