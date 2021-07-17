@@ -7,9 +7,10 @@ Use as a base for your own designs, renders or order as is (read important info 
 
 Details:
  - F13 TKL layout supporting ANSI, ISO, stepped and normal CAPS, Split right shift, and split backspace.
- - Custom plate with tons of flext and acoustic cuts using TGR Jane V2ce-ish mount points.
+ - Jane V2 CE plate.
  - 3 optional internal weight pieces can be filled with foam for dampening or metal for more heft.
  - 7 degree typing angle.
+ - Hiney h88c support.
  - Flush USB-C connector built into the PCB, no need for a daughterboard (though the PCB supports it).
  - Skuf feet.
  - Countersunk m3 screws for everything except the plate (that uses m2.5).
