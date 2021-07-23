@@ -3,7 +3,6 @@
 ![alt text](https://github.com/ojthetiny/OpenTKL/blob/main/PCB/Layout%20options.png "Layout Options")
 
 Features:
- - Underglow RGB lights along the edge (up to 30 of them).
  - Top Mount USB-C or Unified Daughterboard.
  - In switch indicator lights for Caps Lock, Scroll Lock, and Layer on Esc.
  - Atmega 32u4-mu MCU
@@ -14,4 +13,4 @@ Features:
 
 IMPORTANT:
  - This PCB is untested for now, there may be errors in the design, no warranty offered yada yada
- - Theoretically fits in boards the h88 fits, though, again, untested as I don't own any of the boards in question lol.
+ - Footprint identical to h88c
