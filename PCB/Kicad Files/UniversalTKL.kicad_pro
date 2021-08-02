@@ -384,7 +384,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "UniversalTKL.step",
+      "step": "../../../../../Downloads/UniversalTKL.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
